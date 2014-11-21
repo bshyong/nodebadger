@@ -1,0 +1,7 @@
+{
+  "name": "Node Badger",
+  "description": "A Node.js app using Express 4",
+  "repository": "https://github.com/bshyong/nodebadger",
+  "logo": "",
+  "keywords": ["node", "express"]
+}

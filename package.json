@@ -1,0 +1,25 @@
+{
+  "name": "node-badger",
+  "version": "0.1.0",
+  "description": "A Node app using Express 4",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.0.0"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bshyong/nodebadger"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Ben Shyong",
+  "license": "MIT"
+}
